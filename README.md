@@ -4,7 +4,7 @@
   Other codes for preprocessing public or restricted-access data are available from the author upon reasonable request.
 
 ---
-## analysis environment
+## Analysis environment
 ### Python 3.8.15
 - lifelines 0.26.3
 - matplotlib 3.4.3
@@ -17,23 +17,27 @@
 - survival 3.4-0
 - RISCA 1.0.3
 - dplyr 1.0.10 
+
 ---
 ## Contents
 ### Python scripts  
-- ICON7A_
-analysis
-- Kaplan_Meier_image_analysis
+- ```ICON7A_analysis.ipynb```
+- ```Kaplan_Meier_image_analysis.ipynb```
 ### R scripts
-- RMST.R  
+- ```RMST.R```  
 R script for RMST analysis
-- ARMST.R  
+- ```ARMST.R```  
 R script for adjusted RMST analysis
-- ARMST_function.R
+- ```ARMST_function.R```
 - input
 - R_results
 - Refs
 ### data
-### results
+ICON7-A cohort data are summarized in ```ICON7A_clinical_data.txt```.  
+Other files contain coordinates of Kaplan-Meier curves extracted from published papers.
+### results　　　
+Output of analysis results
+
 ---
 ## Citation
    The manuscript is available on the medRxiv preprint server.   
