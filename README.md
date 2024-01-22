@@ -40,6 +40,8 @@ Output of analysis results
 
 ---
 ## Citation
-   The manuscript is available on the medRxiv preprint server.   
-   Bevacizumab in ovarian cancer: time-dependent changes in risk of progression 
-   https://doi.org/10.1101/2023.02.14.23285833
+JAMA Netw Open. 2023 Aug 1;6(8):e2326834.  
+Time-Dependent Changes in Risk of Progression During Use of Bevacizumab for Ovarian Cancer  
+Shiro Takamatsu, Hidekatsu Nakai, Ken Yamaguchi, Junzo Hamanishi, Masaki Mandai, Noriomi Matsumura  
+PMID: 37531111  
+DOI: 10.1001/jamanetworkopen.2023.26834
